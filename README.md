@@ -5,7 +5,7 @@ Demo app for **Episode 4: Open a Second Window in Tauri 2 — Multi-Window React
 A small multi-window app built on Tauri 2 + React + TypeScript. A React button spawns a real native OS window with its own URL, size, and lifecycle — no Electron, no pop-up hacks, just the `WebviewWindow` API.
 
 - **Watch on YouTube:** https://www.youtube.com/watch?v=EJl8owsoTbU
-- **Read on Codegiz:** https://codegiz.com/blog/tauri-patterns-episode-4-open-a-second-window-in-tauri-2
+- **Read on Codegiz:** https://www.codegiz.com/blog/tauri-patterns-episode-4-open-a-second-window-in-tauri-2/
 - **Series index:** https://github.com/GoCelesteAI/tauri-patterns
 
 ## What this app shows
